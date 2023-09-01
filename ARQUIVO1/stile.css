@@ -1,0 +1,16 @@
+body {
+    background-image: url(foto2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+button {
+    background-color: blueviolet;
+    width: 150px;
+    height: 70px;
+    display: block;
+    margin: 0;
+}
+h1 {
+    color: azure;
+    font-size: 100px;
+}
